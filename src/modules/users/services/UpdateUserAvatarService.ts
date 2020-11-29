@@ -1,6 +1,6 @@
 import { injectable, inject } from 'tsyringe';
 
-import IStorageProvider from '@shared/container/StorageProvider/models/IStorageProvider';
+import IStorageProvider from '@shared/container/providers/StorageProvider/models/IStorageProvider';
 import AppError from '@shared/errors/AppError';
 
 import User from '@modules/users/infra/typeorm/entities/User';
