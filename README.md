@@ -55,7 +55,7 @@ npm test
 
 ## Meta
 
-Seu Nome – [@SeuNome](https://twitter.com/...) – SeuEmail@exemplo.com
+Seu Nome – [@SeuNome](https://twitter.com/...) – cmtehenz@gmail.com
 
 Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 
