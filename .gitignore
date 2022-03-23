@@ -4,4 +4,4 @@ ormconfig.json
 coverage
 yarn.lock
 yarn-error.log
-.dist
+dist

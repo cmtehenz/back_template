@@ -7,7 +7,7 @@
     "strict": true,
     "strictPropertyInitialization": false,
     "baseUrl": "./src",
-    "allowJs": false,
+    "allowJs": true,
     "paths": {
       "@modules/*": ["modules/*"],
       "@config/*": ["config/*"],
